@@ -1,0 +1,9 @@
+Assuming you're using an arduino nano with my code, the setup will be:
+
+[1]. D10 -> 110ohm resistor -> GND 
+[2]. RX0 -> GND
+[3]. RX0 -> Button(in)
+[4]. 5v -> Button(out)
+
+Uploading_1: If you're going to upload a new code to the arduino setup, be sure to unplug [2] from either side, then upload your code. After that, reconnect your [2] connection
+Uploading_2: If you uploaded your code without doing Uploading_1 procedure. Unplug your connector(PC->Board), perform Uploading_1 procedure, plug back your connector, upload the code, then reconnect your [2] connection
