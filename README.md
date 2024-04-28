@@ -1,1 +1,1 @@
-# Word-to-morse-code-on-arduino
+This is my first arduino setup project. I don't have that many electronic components, so this is as simple as I can make it. I don't know much about arduino and this is just my second day of working with it. So, bare with it.
